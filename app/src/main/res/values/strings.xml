@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomNavigationView</string>
+    <string name="favourites">Favourites</string>
+    <string name="nearby">Nearby</string>
+    <string name="camera">Camera</string>
+    <string name="dashboard">DashBoard</string>
+    <string name="language">Language</string>
+</resources>
